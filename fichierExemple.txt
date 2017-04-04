@@ -1,3 +1,7 @@
 Test de modification via GitHub
 
 TEST
+<<<<<<< HEAD
+=======
+TEST
+>>>>>>> c4165d2cf54baab364d0e988537469cace625f7c
